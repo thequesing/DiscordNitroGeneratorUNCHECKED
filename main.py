@@ -4,7 +4,7 @@ import time
 import crayons
 from discord_webhook import *
 
-print("{}".format(crayons.green('ANTARES NITRO GENERATOR UNCHECKED by TheQuesing')))
+print("{}".format(crayons.green('NITRO GENERATOR UNCHECKED by TheQuesing')))
 
 webhookurl = 'WEBHOOK URL' 
 
