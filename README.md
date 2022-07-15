@@ -9,7 +9,8 @@ Generador De Codigos De Nitro
 ```bash
 git clone https://github.com/thequesing/DiscordNitroGeneratorUNCHECKED
 ```
-go
+# Go
+
 ```
 cd DiscordNitroGeneratorUNCHECKED
 ```
