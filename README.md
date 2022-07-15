@@ -21,3 +21,7 @@ cd DiscordNitroGeneratorUNCHECKED
 py main.py
 ```
 
+©️TheQuesing 2022-2023 Todos Los Derechos Reservados.
+
+
+
