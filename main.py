@@ -6,7 +6,7 @@ from discord_webhook import *
 
 print("{}".format(crayons.green('ANTARES NITRO GENERATOR UNCHECKED by TheQuesing')))
 
-webhookurl = 'https://discord.com/api/webhooks/996649892850172016/1pT_vTukpYrhWGB6LAZ09LGB2CjL1u4pRN1COV-Q-Ji8C3bhy9rybHAI8FpkxOWivUfh' 
+webhookurl = 'WEBHOOK URL' 
 
 amount = 10000000000000000000000000000000000000000000000000000000000000000000000000000000
 
