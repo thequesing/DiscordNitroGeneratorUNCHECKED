@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "Discord Gen UNCHECKED"
+version = "0.1.0"
+description = ""
+authors = TheQuesing
+
+[tool.poetry.dependencies]
+python = ">=3.8.0,<3.9"
+numpy = "^1.22.2"
+replit = "^3.2.4"
+discord = "^1.7.3"
+requests = "^2.28.1"
+crayons = "^0.4.0"
+discord-webhook = "^0.16.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
