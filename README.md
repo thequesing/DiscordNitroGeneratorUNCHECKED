@@ -2,7 +2,7 @@
 
 Generador De Codigos De Nitro
 
-# Depencendias
+# Dependencias
 
 ```bash
 apt install nodejs
