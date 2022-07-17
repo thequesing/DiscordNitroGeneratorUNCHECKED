@@ -2,7 +2,13 @@
 
 Generador De Codigos De Nitro
 
+# Depencendias
 
+```bash
+apt install nodejs
+
+apt install python
+```
 
 # Download
 
